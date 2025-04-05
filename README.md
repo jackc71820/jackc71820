@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=FuriousFoxGG&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="jackc71820" width=19.40%/>
+	<img src="https://komarev.com/ghpvc/?username=jackc71820&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="jackc71820" width=19.40%/>
 
 </p>
 
@@ -62,7 +62,7 @@
 
 ----
 	
-[![FuriousFoxGG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FuriousFoxGG&theme=github)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![FuriousFoxGG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jackc71820&theme=github)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
  
 </details>
@@ -82,22 +82,5 @@
 ----
 	
 <div>
-  <p align="center">
-	<a href="https://github.com/FuriousFoxGG/M-AOP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-AOP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-Teleport">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Teleport&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-Duty">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Duty&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-VehBlacklist">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-		<a href="https://github.com/FuriousFoxGG/M-Announce">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Announce&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
+
 </details>
